@@ -32,7 +32,8 @@ An interactive Power BI dashboard analyzing $900M in Adidas US sales across 2020
 
 -Price per Unit ($45): The weighted average selling price point across all footwear and apparel inventory.
 
-<img width="1497" height="746" alt="Screenshot 2026-09-08 144002" src="https://github.com/user-attachments/assets/61b19694-6ae4-4750-b825-a966cf94cd5d" />
+<img width="1497" height="746" alt="Screenshot 2026-09-08 144002" src="https://github.com/user-attachments/assets/310eb050-4f50-4a97-9b00-9210fa86acfc" />
+
 
 ## Conclusion
 
